@@ -1,4 +1,4 @@
-# SangChu 상추
+# IdaBro
 - Information Security Student
 
 ## Certifications
