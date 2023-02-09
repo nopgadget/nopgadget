@@ -14,4 +14,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ida-bro&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Ida-Bro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ida-bro)](https://github.com/ida-bro)
