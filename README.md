@@ -5,6 +5,7 @@
 # Hey There! I'm Sam
 - Information Security Student
 - Offensive Security & Vulnerability Management
+- Digital Forensics
 
 ## Certifications
 - eLearnSecurity Junior Penetration Tester
