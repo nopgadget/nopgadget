@@ -3,7 +3,7 @@
 </div>
 
 # Hey There! I'm Sam
-- Information Security Student
+- Software Engineering Student
 - Offensive Security & Vulnerability Management
 - Digital Forensics
 
