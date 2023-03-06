@@ -13,6 +13,6 @@
 - Currently studying for CompTIA Pentest+
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ida-bro&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PolymorphicOpcode&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Ida-Bro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ida-bro)](https://github.com/ida-bro)
+[![Ida-Bro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolymorphicOpcode)](https://github.com/PolymorphicOpcode)
