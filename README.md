@@ -3,9 +3,10 @@
 </div>
 
 # Hey There! I'm Sam
-- Software Engineering Student
+- Computer Information Technology Student
 - Offensive Security & Vulnerability Management
-- Digital Forensics
+- Business Administration
+- Linguistics
 
 ## Certifications
 - CompTIA Pentest+
