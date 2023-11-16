@@ -8,11 +8,7 @@
 - Digital Forensics
 
 ## Certifications
+- CompTIA Pentest+
+- CompTIA Security+
 - eLearnSecurity Junior Penetration Tester
 - GIAC Foundational Cybersecurity Technologies
-- Currently studying for CompTIA Pentest+
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PolymorphicOpcode&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Ida-Bro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolymorphicOpcode)](https://github.com/PolymorphicOpcode)
