@@ -12,4 +12,4 @@
 - CompTIA Pentest+
 - CompTIA Security+
 - eLearnSecurity Junior Penetration Tester
-- GIAC Foundational Cybersecurity Technologies
+- GIAC Security Essentials
