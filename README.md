@@ -8,6 +8,7 @@
 - Linguistics
 
 ## Certifications
+- CompTIA Cybersecurity Analyst (CySA+)
 - CompTIA Pentest+
 - CompTIA Security+
 - eLearnSecurity Junior Penetration Tester
