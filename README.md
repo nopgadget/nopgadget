@@ -3,7 +3,8 @@
 </div>
 
 # Hey There! I'm Sam.
-- Computer Information Technology Student
+- Bachelor's in Computer Information Technology
+- MBA @ NIATEC
 - OT/ICS Security & Cybersecurity Operations
 - Linguistics
 
