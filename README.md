@@ -3,7 +3,7 @@
 </div>
 
 # Hey There! I'm Sam.
-- MBA Student @ NIATEC
+- MS Homeland Security Student @ NIATEC
 - Bachelor's in Computer Information Technology
 - OT/ICS Security & Cybersecurity Operations
 - Linguistics
