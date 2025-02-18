@@ -6,6 +6,7 @@
 - MS Homeland Security Student
 - Bachelor's in Computer Information Technology
 - OT/ICS Security & Cybersecurity Operations
+- Cybersecurity Infrastructure Engineering
 - Linguistics
 
 ## Certifications
