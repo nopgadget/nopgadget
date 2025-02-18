@@ -18,6 +18,6 @@
 ## Technologies I Use
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/iconsi=aws,azure,gcp,firebase,terraform,kubernetes,docker,git,gitlab,github,powershell,bash,regex,go,cs,python,cloudflare,arduino,npm,js,html,css,neovim,vscode,obsidian,postman,windows,linux,debian,kali,arch,redhat,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,terraform,kubernetes,docker,git,gitlab,github,powershell,bash,regex,go,cs,python,cloudflare,arduino,npm,js,html,css,neovim,vscode,obsidian,postman,windows,linux,debian,kali,arch,redhat,raspberrypi" />
   </a>
 </p>
