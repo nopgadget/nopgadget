@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
 </div>
 
-# Hey There! I'm Sam.
-- MS Homeland Security Student @ NIATEC
+# Sam
+- MS Homeland Security Student
 - Bachelor's in Computer Information Technology
 - OT/ICS Security & Cybersecurity Operations
 - Linguistics
