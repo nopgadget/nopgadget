@@ -22,3 +22,4 @@
     <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,terraform,kubernetes,docker,git,gitlab,github,powershell,bash,regex,go,cs,python,cloudflare,arduino,npm,js,html,css,neovim,vscode,obsidian,postman,windows,linux,debian,kali,arch,redhat,raspberrypi" />
   </a>
 </p>
+![](https://komarev.com/ghpvc/?username=nopgadget)
