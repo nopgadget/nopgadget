@@ -3,11 +3,8 @@
 </div>
 
 # Sam
-- MS Homeland Security Student
-- Bachelor's in Computer Information Technology
 - OT/ICS Security & Cybersecurity Operations
 - Cybersecurity Infrastructure Engineering
-- Linguistics
 
 ## Certifications
 - CompTIA Cybersecurity Analyst (CySA+)
@@ -16,7 +13,6 @@
 - eLearnSecurity Junior Penetration Tester
 - GSEC
 
-![](https://komarev.com/ghpvc/?username=nopgadget)
 
 ## Technologies I Use
 <p align="center">
