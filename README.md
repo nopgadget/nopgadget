@@ -4,6 +4,7 @@
 
 # Sam
 - OT/ICS Security & Cybersecurity Operations
+- Artificial Intelligence & Machine Learning
 - Cybersecurity Infrastructure Engineering
 
 ## Certifications
