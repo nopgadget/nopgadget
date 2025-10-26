@@ -8,11 +8,11 @@
 - Cybersecurity Infrastructure Engineering
 
 ## Certifications
+- GIAC GSEC
 - CompTIA Cybersecurity Analyst (CySA+)
 - CompTIA Pentest+
 - CompTIA Security+
 - eLearnSecurity Junior Penetration Tester
-- GSEC
 
 
 ## Technologies I Use
