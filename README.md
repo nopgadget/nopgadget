@@ -14,7 +14,11 @@
 - CompTIA Security+
 - eLearnSecurity Junior Penetration Tester
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nopgadget" />
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nopgadget&theme=nord_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nopgadget&theme=nord_dark" />
+</p>
 
 ## Technologies I Use
 <p align="center">
