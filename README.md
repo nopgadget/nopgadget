@@ -1,19 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
 </div>
-
-# Sam
-- OT/ICS Security & Cybersecurity Operations
-- Artificial Intelligence & Machine Learning
-- Cybersecurity Infrastructure Engineering
-
-## Certifications
-- GIAC GSEC
-- CompTIA Cybersecurity Analyst (CySA+)
-- CompTIA Pentest+
-- CompTIA Security+
-- eLearnSecurity Junior Penetration Tester
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nopgadget&theme=nord_dark" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nopgadget&theme=nord_dark" />
